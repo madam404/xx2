@@ -1,5 +1,7 @@
 # xx2
 
+https://github.com/madam404/xx2/blob/main/xss-payload-list.txt
+
 <!-- Project Name  : Cross Site Scripting ( XSS ) Vulnerability Payload List -->
 <!--        Author : Ismail Tasdelen -->
 <!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
