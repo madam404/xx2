@@ -1,22 +1,4 @@
 
-
-Settings
-
-Hi! Here some our recommendations to get the best out of BLACKBOX:
-
-Be as clear as possible
-
-End the question in what language you want the answer to be, e.g: ‘connect to mongodb in python
-or you can just
-Go to Blackbox
-Here are some suggestion (choose one):
-Write a function that reads data from a json file
-How to delete docs from mongodb in phyton
-Connect to mongodb in nodejs
-Ask any coding question
-send
-refresh
-Blackbox AI Chat is in beta and Blackbox is not liable for the content generated. By using Blackbox, you acknowledge that you agree to agree to Blackbox's Terms and Privacy Policy
 ### 🚀 Cross Site Scripting ( XSS ) Vulnerability Payload List 🚀
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/xss-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/xss-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/xss-payload-list/1">
