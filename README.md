@@ -1,10 +1,5 @@
 
-#### yyy Payload List :
 
-```
-<!-- Project Name  : Cross Site Scripting ( yyy ) Vulnerability Payload List -->
-<!--        Author : Ismail Tasdelen -->
-<!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
 <!--        GitHub : https://github.com/ismailtasdelen/ -->
 
 
