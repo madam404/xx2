@@ -40,7 +40,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
-<IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
+
 <INPUT TYPE="BUTTON" action="alert('yyy')"/>
 "><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
 <IFRAME SRC="javascript:alert('yyy');"></IFRAME>
