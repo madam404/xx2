@@ -48,7 +48,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
-<script ^__^>alert(String.fromCharCode(49))</script ^__^
+
 <IFRAME SRC="javascript:alert('yyy');"></IFRAME>
 
 
