@@ -6,7 +6,7 @@
 <!--        Author : Ismail Tasdelen -->
 <!--      Linkedin : https://www.linkedin.com/in/ismailtasdelen/ -->
 <!--        GitHub : https://github.com/ismailtasdelen/ -->
-<!--       Twitter : https://twitter.com/ismailtsdln -->
+
 
 
 
