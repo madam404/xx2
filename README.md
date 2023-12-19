@@ -49,7 +49,7 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
-<IFRAME SRC="javascript:alert('yyy');"></IFRAME>
+
 
 
 
