@@ -1,7 +1,5 @@
 
-### 🚀 Cross Site Scripting ( yyy ) Vulnerability Payload List 🚀
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e2354dd8e8829/media/badge.svg"> <img src="https://img.shields.io/github/stars/payloadbox/yyy-payload-list?style=social"> <img src="https://img.shields.io/github/forks/payloadbox/yyy-payload-list?style=social"> <img src="https://img.shields.io/github/repo-size/payloadbox/yyy-payload-list"> <img src="https://img.shields.io/github/license/payloadbox/yyy-payload-list"> <img src="https://img.shields.io/github/issues/detail/author/payloadbox/yyy-payload-list/23">
 
 ##### Overview : 
 
