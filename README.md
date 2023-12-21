@@ -2,7 +2,7 @@
 
 ```
 
-<!--        GitHub : https://xxx.com/ismailtasdelen/ -->
+<!--        GitHub : .com/ismailtasdelen/ -->
 
 
 
